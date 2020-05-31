@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59e07326-2b49-4936-8c2e-0a5975041021" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5211b9b6-3b74-4b18-969f-425a3f570f77">
+    <option name="files">
+      <option value="1_basic1.ipynb" />
+      <option value="2_figure.ipynb" />
+      <option value="3_设置坐标轴.ipynb" />
+      <option value="4_设置坐标轴2.ipynb" />
+      <option value="5_图例legend.ipynb" />
+      <option value="6_标注.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1cfOeGb34JLkvP6z3ZGZulfwvWm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e07326-2b49-4936-8c2e-0a5975041021" name="Default Changelist" comment="" />
+      <created>1590916274060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590916274060</updated>
+      <workItem from="1590916275511" duration="3101000" />
+      <workItem from="1590928818500" duration="3266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1291" height="3" key="GridCell.Tab.0.bottom" timestamp="1590928897182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590928897182" />
+    <state width="1291" height="3" key="GridCell.Tab.0.center" timestamp="1590928897182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590928897182" />
+    <state width="1291" height="3" key="GridCell.Tab.0.left" timestamp="1590928897181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590928897181" />
+    <state width="1291" height="3" key="GridCell.Tab.0.right" timestamp="1590928897182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590928897182" />
+    <state x="51" y="0" key="SettingsEditor" timestamp="1590916696102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="51" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590916696102" />
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1590928818916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590928818916" />
+    <state x="260" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1590929226976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590929226976" />
+  </component>
+</project>
