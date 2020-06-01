@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59e07326-2b49-4936-8c2e-0a5975041021" name="Default Changelist" comment="" />
+    <list default="true" id="59e07326-2b49-4936-8c2e-0a5975041021" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="5211b9b6-3b74-4b18-969f-425a3f570f77">
     <option name="files">
       <option value="1_basic1.ipynb" />
@@ -22,9 +29,11 @@
       <option value="4_设置坐标轴2.ipynb" />
       <option value="5_图例legend.ipynb" />
       <option value="6_标注.ipynb" />
+      <option value="bar.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1cfOeGb34JLkvP6z3ZGZulfwvWm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -49,6 +59,8 @@
       <updated>1590916274060</updated>
       <workItem from="1590916275511" duration="3101000" />
       <workItem from="1590928818500" duration="3383000" />
+      <workItem from="1590971233377" duration="532000" />
+      <workItem from="1590971919439" duration="141000" />
     </task>
     <servers />
   </component>
@@ -56,30 +68,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1291" height="3" key="GridCell.Tab.0.bottom" timestamp="1590928897182">
+    <state width="1291" height="3" key="GridCell.Tab.0.bottom" timestamp="1590971317863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590928897182" />
-    <state width="1291" height="3" key="GridCell.Tab.0.center" timestamp="1590928897182">
+    <state width="1291" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590971317863" />
+    <state width="1291" height="3" key="GridCell.Tab.0.center" timestamp="1590971317862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590928897182" />
-    <state width="1291" height="3" key="GridCell.Tab.0.left" timestamp="1590928897181">
+    <state width="1291" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590971317862" />
+    <state width="1291" height="3" key="GridCell.Tab.0.left" timestamp="1590971317862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590928897181" />
-    <state width="1291" height="3" key="GridCell.Tab.0.right" timestamp="1590928897182">
+    <state width="1291" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590971317862" />
+    <state width="1291" height="3" key="GridCell.Tab.0.right" timestamp="1590971317863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590928897182" />
+    <state width="1291" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590971317863" />
     <state x="51" y="0" key="SettingsEditor" timestamp="1590916696102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="51" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590916696102" />
-    <state x="273" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1590928818916">
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1590971918604">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="273" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590928818916" />
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590971918604" />
     <state x="260" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1590929226976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
