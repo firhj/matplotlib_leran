@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59e07326-2b49-4936-8c2e-0a5975041021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9_3D plot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_subplot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_动态图.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_直方图bar.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,8 @@
   </component>
   <component name="JupyterTrust" id="5211b9b6-3b74-4b18-969f-425a3f570f77">
     <option name="files">
+      <option value="10_subplot.ipynb" />
+      <option value="11_动态图.ipynb" />
       <option value="1_basic1.ipynb" />
       <option value="2_figure.ipynb" />
       <option value="3_设置坐标轴.ipynb" />
@@ -35,7 +37,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1cfOeGb34JLkvP6z3ZGZulfwvWm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,7 +68,8 @@
       <workItem from="1590971233377" duration="532000" />
       <workItem from="1590971919439" duration="141000" />
       <workItem from="1590990076212" duration="902000" />
-      <workItem from="1590991002625" duration="1930000" />
+      <workItem from="1590991002625" duration="2171000" />
+      <workItem from="1591004484939" duration="1282000" />
     </task>
     <servers />
   </component>
@@ -72,22 +77,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1291" height="3" key="GridCell.Tab.0.bottom" timestamp="1590991061566">
+    <state width="1291" height="3" key="GridCell.Tab.0.bottom" timestamp="1591004609049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590991061566" />
-    <state width="1291" height="3" key="GridCell.Tab.0.center" timestamp="1590991061566">
+    <state width="1291" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591004609049" />
+    <state width="1291" height="3" key="GridCell.Tab.0.center" timestamp="1591004609049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590991061566" />
-    <state width="1291" height="3" key="GridCell.Tab.0.left" timestamp="1590991061565">
+    <state width="1291" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591004609049" />
+    <state width="1291" height="3" key="GridCell.Tab.0.left" timestamp="1591004609048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590991061565" />
-    <state width="1291" height="3" key="GridCell.Tab.0.right" timestamp="1590991061566">
+    <state width="1291" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591004609048" />
+    <state width="1291" height="3" key="GridCell.Tab.0.right" timestamp="1591004609049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1291" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590991061566" />
+    <state width="1291" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591004609049" />
     <state width="1291" height="182" key="GridCell.Tab.1.bottom" timestamp="1590990979778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -108,10 +113,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="51" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590916696102" />
-    <state x="273" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1590991002772">
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1591004536149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="273" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590991002772" />
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591004536149" />
     <state x="260" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1590929226976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
